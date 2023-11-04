@@ -1,0 +1,18 @@
+1. information responses (100 - 199)
+2. Successful responses (200 - 299)
+3. Redirection messages(300 - 399)
+4. Client error responses (400 - 490)
+5. Server error responses (500 - 599)
+
+GET: Reterive information from the specificed resource, and should only be used to request data
+(not modify it)
+
+POST: Sends data to the server for processing, usually resulting in a change in the server state 
+or side effects on the server
+
+PUT: Update a current resource or create it if it doesn't exist, with the client providing a complete
+and updated copy of the resource
+
+PATCH: Update parts of an existing resource, with the client providing a complete and updated copy of the resource
+
+DELETE: Remove the specificed resource from server

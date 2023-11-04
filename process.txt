@@ -1,0 +1,6 @@
+!. create directory
+2. create index.js file
+3. initialize NPM (npm install)
+4. install the Express Package
+5. write server application in index.js
+6. start server

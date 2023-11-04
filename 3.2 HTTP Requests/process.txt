@@ -1,0 +1,7 @@
+1. Create directory
+2. Create index.js file
+3. initilize NPM
+4. install the Express Package
+5. Write Server Application in index.js
+6. Server should be able to handle "/" "/contact" and "/about" endpoints
+7. Start server
